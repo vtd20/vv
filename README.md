@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
      style="border-radius: 30px;" />
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&link=https%3A%2F%2Fshields.io%2Fbadges)
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+[![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io/badges)
 
 
 
